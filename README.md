@@ -1,4 +1,4 @@
-# doc_manage_system
+# Document Management System
 DocStorio is a web based application for Document management system created using Mendix v.8.6.
 # Pros
 1. Less memory consuming
