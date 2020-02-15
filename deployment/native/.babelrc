@@ -1,0 +1,11 @@
+{
+  "presets": ["F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/metro-react-native-babel-preset"],
+  "plugins": [
+    [
+      "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/babel-plugin-inline-import",
+      {
+        "extensions": [".svg"]
+      }
+    ]
+  ]
+}

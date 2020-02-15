@@ -1,0 +1,12 @@
+Buildfile: F:\Mendix\Capstone_Project-main\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 2 source files to F:\Mendix\Capstone_Project-main\deployment\run\bin
+
+package:
+      [jar] Building jar: F:\Mendix\Capstone_Project-main\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+
+

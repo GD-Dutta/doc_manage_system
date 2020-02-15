@@ -1,0 +1,42 @@
+{
+  "watchFolders": [
+    "F:/Mendix/Capstone_Project-main/theme",
+    "F:/Mendix/Capstone_Project-main/javascriptsource",
+    "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules"
+  ],
+  "resolver": {
+    "extraNodeModules": {
+      "externalWidgets": "F:/Mendix/Capstone_Project-main/deployment/native/externalWidgets",
+      "@babel/runtime": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/@babel/runtime",
+      "big.js": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/big.js",
+      "react": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react",
+      "react-native-gesture-handler": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-gesture-handler",
+      "react-native": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native",
+      "react-native-ble-plx": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-ble-plx",
+      "react-native-calendar-events": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-calendar-events",
+      "react-native-camera": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-camera",
+      "react-native-code-push": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-code-push",
+      "react-native-device-info": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-device-info",
+      "react-native-firebase": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-firebase",
+      "react-native-geocoder": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-geocoder",
+      "react-native-image-picker": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-image-picker",
+      "react-native-inappbrowser-reborn": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-inappbrowser-reborn",
+      "react-native-maps": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-maps",
+      "react-navigation": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-navigation",
+      "react-native-sound": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-sound",
+      "react-native-svg": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-svg",
+      "react-native-tab-view": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-tab-view",
+      "react-native-touch-id": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-touch-id",
+      "react-native-vector-icons": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-vector-icons",
+      "react-native-video": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-video",
+      "react-native-view-shot": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-view-shot",
+      "react-native-webview": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-webview",
+      "react-native-fast-image": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/react-native-fast-image",
+      "@react-native-community/async-storage": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/@react-native-community/async-storage",
+      "@react-native-community/netinfo": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/@react-native-community/netinfo",
+      "eventemitter3": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/eventemitter3",
+      "mendix": "F:/External Softwares/8.6.0.715/modeler/tools/node/node_modules/mendix"
+    }
+  },
+  "cacheVersion": "715"
+}

@@ -1,0 +1,11 @@
+Buildfile: F:\Mendix\Capstone_Project-main\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 32 files to F:\Mendix\Capstone_Project-main\deployment
+     [copy] Copying 48 files to F:\Mendix\Capstone_Project-main\deployment\model\lib\userlib
+     [copy] Copying 1 file to F:\Mendix\Capstone_Project-main\deployment\model\resources
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+
