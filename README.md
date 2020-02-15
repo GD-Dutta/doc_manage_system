@@ -17,5 +17,5 @@ DocStorio is a web based application for Document management system created usin
 3. If You want to run the project locally then hit the ``Run Locally`` or Click on ``Run`` to deploy in cloud
 
 # References
-  https://gettingstarted.mendixcloud.com/link/home
-  https://docs.mendix.com/studio/general
+ 1. https://gettingstarted.mendixcloud.com/link/home
+ 2. https://docs.mendix.com/studio/general
