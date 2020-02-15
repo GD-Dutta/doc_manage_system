@@ -15,3 +15,7 @@ DocStorio is a web based application for Document management system created usin
 1. Download the Capstone Project zip.
 2. Run the ``Capstone_Project.mpr`` in Mendix Studio pro
 3. If You want to run the project locally then hit the ``Run Locally`` or Click on ``Run`` to deploy in cloud
+
+# References
+  https://gettingstarted.mendixcloud.com/link/home
+  https://docs.mendix.com/studio/general
