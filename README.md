@@ -16,6 +16,10 @@ DocStorio is a web based application for Document management system created usin
 2. Run the ``Capstone_Project.mpr`` in Mendix Studio pro
 3. If You want to run the project locally then hit the ``Run Locally`` or Click on ``Run`` to deploy in cloud
 
+to publish the application for hybrid mobile app using Phonegap follow the lik:
+
+https://docs.mendix.com/howto/mobile/publishing-a-mendix-hybrid-mobile-app-in-mobile-app-stores
+
 # References
  1. https://gettingstarted.mendixcloud.com/link/home
  2. https://docs.mendix.com/studio/general
