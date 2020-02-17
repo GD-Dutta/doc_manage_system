@@ -7,7 +7,7 @@ DocStorio is a web based application for Document management system created usin
 # Installation
 **Prerequisite:**
 
-1. download the Mendix Studio Pro 8.6
+1. download the Mendix Studio Pro 8.6 (https://appstore.home.mendix.com/link/modelers/)
 2. An account in Mendix Website
 
 **How to run:**
